@@ -35,7 +35,9 @@ const Messages = () => {
             key={index}
             className="backdrop-blur-lg bg-white/20 border border-white/30 shadow-xl rounded-2xl p-6 transition transform hover:scale-105 hover:shadow-2xl"
           >
-            <p className="text-white text-base sm:text-lg italic leading-relaxed">
+            <p className="text-black
+            git add ,
+             text-base sm:text-lg italic leading-relaxed">
               “{message}”
             </p>
           </div>
